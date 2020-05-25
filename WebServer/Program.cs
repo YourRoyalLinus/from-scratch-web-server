@@ -70,7 +70,7 @@ namespace WebServer
 
             try
             {
-                using (var sr = new StreamReader("Data\\VDirs.Dat"))
+                using (var sr = new StreamReader("Data/VDirs.Dat"))
                 {
                     while((sLine = sr.ReadLine()) != null)
                     {
@@ -200,7 +200,7 @@ namespace WebServer
                 Console.WriteLine("Socket Type: " + socket.SocketType);
                 if(socket.Connected)
                 {
-                    Console.WriteLine("\nClient Connected!\\n==================\\n  Client IP {0}\\n", socket.RemoteEndPoint);
+                    Console.WriteLine("\nClient Connected!\n=================\nClient IP {0}\n", socket.RemoteEndPoint);
                     Byte[] bReceive = new Byte[1024];
                     int i = socket.Receive(bReceive, bReceive.Length, 0);
                     string sBuffer = Encoding.ASCII.GetString(bReceive);
