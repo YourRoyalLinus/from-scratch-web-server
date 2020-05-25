@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{378619DE-9189-496B-BA38-0DFBF6A1B5E0}</ProjectGuid>
+    <ProjectGuid>{7AFBBE8E-5660-4BBF-A7E3-2FD230A47D19}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>WebServer</RootNamespace>
     <AssemblyName>WebServer</AssemblyName>
