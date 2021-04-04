@@ -1,0 +1,6 @@
+/home/jon/Documents/projects/from-scratch-web-server/WebServer/WebServer.exe
+/home/jon/Documents/projects/from-scratch-web-server/WebServer/WebServer.pdb
+/home/jon/Documents/projects/from-scratch-web-server/WebServer/obj/x86/Debug/WebServer.csproj.CoreCompileInputs.cache
+/home/jon/Documents/projects/from-scratch-web-server/WebServer/obj/x86/Debug/WebServer.exe
+/home/jon/Documents/projects/from-scratch-web-server/WebServer/obj/x86/Debug/WebServer.pdb
+/home/jon/Documents/projects/from-scratch-web-server/WebServer/obj/x86/Debug/WebServer.csprojAssemblyReference.cache
