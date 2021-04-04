@@ -1,8 +1,8 @@
 # From Scratch Web Server
 
-A simple web server that can return html files and images
+A simple Linux web server that can return html files and images
 
-This code is built from this artcile https://www.c-sharpcorner.com/article/creating-your-own-web-server-using-C-Sharp/ updated with newer C# features
+This code is built from this artcile https://www.c-sharpcorner.com/article/creating-your-own-web-server-using-C-Sharp/ updated with newer C# features and built to run on Linux
 
 ---
 
@@ -26,5 +26,5 @@ This code is built from this artcile https://www.c-sharpcorner.com/article/creat
   * Allow user to upload their own files - restricted by allowed MIME types
   * Allow user to view their uploaded file
 * **REFACTOR**
-  * Organize the code into classes or modules
+  * Organize the code into classes or modules (refactored branch)
   * Add Comments
